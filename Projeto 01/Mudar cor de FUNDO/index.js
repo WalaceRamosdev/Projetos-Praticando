@@ -13,7 +13,7 @@ Ela fará com que a cor que for gerada tenha seu nome associado e apresentado no
 
 const color = document.querySelector('.color')
 
-/* Nesta parte, iremos dar sentido para o button de nossa página, faremos com que ele aguarde um evento dentro do HTML para assim, estar fazendo o que lhe é proposto, que é trocar a cor de fundo da nossa página. Para isso, vamos estar adicionando um eventListener a ele com a variavel de cores que listamos mais acima.
+/* Nesta parte, iremos dar sentido para o button de nossa página, faremos com que ele aguarde um evento dentro do HTML para assim, estar fazendo o que lhe é proposto, que é trocar a cor de fundo da nossa página. Para isso, vamos estar adicionando um eventListenner a ele com a variavel de cores que listamos mais acima.
 Esse processo ocorrerá sempre que um click for feito no botão da página */
 
 btn.addEventListener('click', function(){
@@ -29,7 +29,7 @@ btn.addEventListener('click', function(){
 Para isso, iremos criar a nossa function que irá retornar a cor aleatória, para isso, iremos utilizar o método Math.random, mas iremos usá-lo dentro de outro Math, que é o Math.floor...
 O Math.random irá nos retornar números fracionados, que não é interessante para nosso uso, aqui, precisamos de números inteiros, por isso devemos usá-lo dentro de Math.floor 
 
-Logo após definirmos nossos métodos, precisamos retornar todas as cores que irão ser selecionandas aleatóriamente, para isso, logo após o Math.random, iremos multiplá-lo pela variável colors.lenght, que dirá a quantidade exata de objetos dentro da variável colors.
+Logo após definirmos nossos métodos, precisamos retornar todas as cores que irão ser selecionandas aleatóriamente, para isso, logo após o Math.random, iremos multiplicá-lo pela variável colors.lenght, que dirá a quantidade exata de objetos dentro da variável colors.
 
 */
 
