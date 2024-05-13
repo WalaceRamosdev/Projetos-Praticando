@@ -23,7 +23,7 @@ const updateValue = () => {
 Iremos adicionar o evento de 'mousedown' que entende que enquanto estivermos com o botão do mouse pressionado, estará sendo adicionado ao contador o valor de +1.
 Logo em seguida, iremos chamar a função updateValue para o valor ser mostrado na tela.
 Este mesmo evento pode ser adicionado ao botão de -, porem, precisamos estar atentos para alterar o nome da variavel e o sinal de += e -=.
-Ao final, o setInterval será setado em 100.
+Ao final, o setInterval será setado em 100 para que o evento de mouse ocorra em determinado tempo estipulado.
 */
 
 moreButton.addEventListener('mousedown', () => {
@@ -50,6 +50,7 @@ reset.addEventListener('click', () =>{
     updateValue()
 })
 
-
+/* Precisamos agora, criar uma função para que o javaScript entenda quando estaremos soltando mouse. Para isso, vamos criar mais um evento, desta vez será o 'mouseup' onde ele irá limpar todo o intervalo estipulado acima
+*/
 
 document.addEventListener('mouseup', () => clearInterval(intervalId));
