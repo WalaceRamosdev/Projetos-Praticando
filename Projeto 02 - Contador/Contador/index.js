@@ -40,17 +40,18 @@ anyButton.addEventListener('mousedown', () => {
     }, 100)
 })
 
+/* Precisamos agora, criar uma função para que o javaScript entenda quando estaremos soltando mouse. Para isso, vamos criar mais um evento, desta vez será o 'mouseup' onde ele irá limpar todo o intervalo estipulado acima
+*/
+
+document.addEventListener('mouseup', () => clearInterval(intervalId));
+
+
 /* Agora iremos criar a função para o botão de reset.
 Ele será muito parecido com os outrs dois botões que acabamos de configurar, porém, ao inves de usarmos o evento 'mousedown', iremos utilizar o evento 'click'.
 Vamos chamar a variável count para idicar que ela precisa retornar a contagem para 0, e por fim iremos chamar a função updateValue para exibirmos o valor
 */
 
-reset.addEventListener('click', () =>{
+reset.addEventListener('click', () => {
     count = 0
     updateValue()
 })
-
-/* Precisamos agora, criar uma função para que o javaScript entenda quando estaremos soltando mouse. Para isso, vamos criar mais um evento, desta vez será o 'mouseup' onde ele irá limpar todo o intervalo estipulado acima
-*/
-
-document.addEventListener('mouseup', () => clearInterval(intervalId));
