@@ -9,6 +9,10 @@
     text-align: center;
 }
 
+body {
+    background-color: grey;
+}
+
 h1 {
     margin: auto;
     background-color: black;
@@ -36,18 +40,16 @@ h2 {
     border-style: none;
     border-radius: 15px;
     font-weight: bold;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.411);
     color: black;
-    border: 2px solid black;
+    border: 1px solid black;
+    transition: 0.2s;
 }
 
 #btn:hover {
     cursor: pointer;
-    background-color: black;
-    color: white;
     transition: 0.5s;
-    border: 2px solid white;
-    
+    box-shadow: 2px 2px 5px black;
 }
 
 .container {
