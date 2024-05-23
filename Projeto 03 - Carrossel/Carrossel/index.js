@@ -1,5 +1,5 @@
 /* Para iniciarmos o nosso carrossel automático, devemos buscar todas as nossas ids e classes no nosso HTML. 
-Vamos buscá-los através do document,getElementById e também através do querySelectorAll...
+Vamos buscá-los através do document.getElementById e também através do querySelectorAll...
 */
 
 const imgs = document.getElementById('img')
@@ -32,7 +32,7 @@ const carrossel = () => {
 
 }
 
-/* Este será o intervalo de tempo em milisegundos que cada imagem será exibida, um tempo aconselhável é de 1800 - 2200
+/* Este será o intervalo de tempo em milisegundos que cada imagem será exibida, um tempo aconselhável é entre 1800 - 2500
 */ 
 
-setInterval(carrossel, 2200)
+setInterval(carrossel, 2500)
