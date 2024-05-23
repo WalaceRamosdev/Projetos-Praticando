@@ -4,7 +4,7 @@ const reset = document.getElementById('reset')
 const value = document.getElementById('value')
 
 let count = 0
-let interval
+let interval = 0
 
 const updateValue = () => {
     value.innerHTML = count
