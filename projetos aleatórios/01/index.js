@@ -1,10 +1,10 @@
-let n1, n2, n3, n4, media
-for(let x = 1; x <= 50; x++)
+let n1 = [], n2 = [], n3 = [], n4 = [], media = []
+for(let n = 0; n <= 49; n++)
 {
-    n1 = prompt()
-    n2 = prompt()
-    n3 = prompt()
-    n4 = prompt()
-    media = (n1 + n2 + n3 + n4)/4
-    
+    n1[n] = prompt()
+    n2[n] = prompt()
+    n3[n] = prompt()
+    n4[n] = prompt()
+    media[n] = (n1[n] + n2[n] + n3[n] + n4[n])/4
+
 }
