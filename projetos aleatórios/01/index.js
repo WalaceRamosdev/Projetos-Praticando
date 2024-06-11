@@ -1,9 +1,12 @@
-let listaDeNomes = [];
-
-for (let x = 0; x < 100; x++) {
-    listaDeNomes[x] = prompt();
-}
-
-for (let x = 0; x < 100; x++) {
-    console.log(listaDeNomes[x]);
+let capitais = [
+    "Palmas",
+    "São Paulo",
+    "Rio de Janeiro",
+    "Belo Horizonte",
+    "Salvador",
+    "Recife",
+    "Goiânia",
+];
+    for (i = 0; i < capitais.length; i++) {
+    console.log(capitais[i]);
 }
