@@ -1,0 +1,4 @@
+Este app consiste em ter uma tela de login para usuários 
+uma interface como preços e serviços prestados pelo estabelecimento
+eventuais promoções como dias festivos e promoção por indicação
+uso de inteligência artificial para o cliente escolher o corte de cabelo a partir de modelos pré definidos dentro do aplicativo. Consiste em o usuário utilizar a câmera de seu telefone para que o rosto seja reconhecido e através de um filtro como do instagram, nesta opção o usuário poderá tirar screenshots e salvar como modelo para ser usado futuramente e ter uma noção de como tal corte de cabelo combinaria com ele...além disso, o usuário poderá ver o preço do serviço e se optar, agendar com o barbeiro uma data para que o trabalho seja realizado.

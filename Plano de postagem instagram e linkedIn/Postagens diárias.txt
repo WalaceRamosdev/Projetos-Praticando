@@ -1,0 +1,78 @@
+Semana 1: Introdução ao JavaScript
+
+
+Ok! - Dia 1: O que é JavaScript? - Um post explicando a história e a importância do JavaScript no desenvolvimento web.
+
+Ok! - Dia 2: Como começar com JavaScript? - Guia para iniciantes sobre como configurar o ambiente de desenvolvimento.
+
+Ok! - Dia 3: Variáveis e Tipos de Dados - Explicação sobre variáveis e os diferentes tipos de dados em JavaScript.
+
+- Dia 4: Operadores em JavaScript - Post sobre os operadores aritméticos, lógicos e de comparação.
+
+- Dia 5: Estruturas de Controle - Abordar if, else, switch, for, while e do-while.
+
+- Dia 6: Funções - Explicação sobre como declarar e utilizar funções em JavaScript.
+
+- Dia 7: Projetos Simples - Propor um pequeno projeto para aplicar os conhecimentos da semana.
+
+Semana 2: Avançando no JavaScript
+
+
+- Dia 8: Arrays - Como criar e manipular arrays em JavaScript.
+
+- Dia 9: Métodos de Array - Métodos importantes como push, pop, shift, unshift, map, filter e reduce.
+
+- Dia 10: Objetos - Introdução aos objetos e suas propriedades.
+
+- Dia 11: Métodos de Objetos - Trabalhando com métodos dentro de objetos.
+
+- Dia 12: Manipulação do DOM - Como usar JavaScript para alterar o DOM.
+
+- Dia 13: Eventos em JavaScript - Adicionando e manipulando eventos.
+
+- Dia 14: Projeto Interativo - Criar um projeto interativo que envolva manipulação do DOM e eventos.
+
+Semana 3: Ferramentas e Bibliotecas
+
+
+- Dia 15: Introdução ao ES6+ - Novidades e principais recursos das versões mais recentes do JavaScript.
+
+- Dia 16: Promises e Async/Await - Trabalhando com operações assíncronas.
+
+- Dia 17: Fetch API - Realizando requisições HTTP com Fetch API.
+
+- Dia 18: Introdução ao Node.js - O que é Node.js e como começar.
+
+- Dia 19: Utilizando NPM - Como usar o Node Package Manager para gerenciar dependências.
+
+- Dia 20: Introdução ao Express.js - Framework para criar servidores com Node.js.
+
+- Dia 21: Projeto de API Simples - Criar uma API simples com Node.js e Express.js.
+
+Semana 4: Boas Práticas e Desenvolvimento Profissional
+
+
+- Dia 22: Boas Práticas de Código - Dicas para escrever um código limpo e eficiente.
+
+- Dia 23: Debugging - Ferramentas e técnicas para depurar seu código JavaScript.
+
+- Dia 24: Testes Automatizados - Introdução aos testes automatizados com Jest.
+
+- Dia 25: Otimização de Performance - Técnicas para melhorar a performance do seu código.
+
+- Dia 26: Introdução ao TypeScript - O que é TypeScript e suas vantagens.
+
+- Dia 27: Projeto com TypeScript - Converter um projeto JavaScript para TypeScript.
+
+- Dia 28: Versionamento com Git - Como usar Git e GitHub para gerenciar seu código.
+
+- Dia 29: Construindo um Portfólio - Dicas para criar um portfólio atrativo com seus projetos JavaScript.
+
+- Dia 30: Dicas de Carreira - Conselhos e recursos para quem deseja seguir uma carreira em desenvolvimento JavaScript.
+
+
+Esses tópicos fornecerão uma base sólida em JavaScript e ajudarão seus seguidores a se aprofundarem na linguagem e em suas aplicações práticas.
+
+
+
+
