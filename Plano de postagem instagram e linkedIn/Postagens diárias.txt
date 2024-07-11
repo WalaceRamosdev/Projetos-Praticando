@@ -7,20 +7,20 @@ Ok! - Dia 2: Como começar com JavaScript? - Guia para iniciantes sobre como con
 
 Ok! - Dia 3: Variáveis e Tipos de Dados - Explicação sobre variáveis e os diferentes tipos de dados em JavaScript.
 
-- Dia 4: Operadores em JavaScript - Post sobre os operadores aritméticos, lógicos e de comparação.
+Ok! - Dia 4: Operadores em JavaScript - Post sobre os operadores aritméticos, lógicos e de comparação.
 
-- Dia 5: Estruturas de Controle - Abordar if, else, switch, for, while e do-while.
+Ok! - Dia 5: Estruturas de Controle - Abordar if, else, switch, for, while e do-while.
 
-- Dia 6: Funções - Explicação sobre como declarar e utilizar funções em JavaScript.
+Ok! - Dia 6: Funções - Explicação sobre como declarar e utilizar funções em JavaScript.
 
-- Dia 7: Projetos Simples - Propor um pequeno projeto para aplicar os conhecimentos da semana.
+Ok! - Dia 7: Projetos Simples - Propor um pequeno projeto para aplicar os conhecimentos da semana.
 
 Semana 2: Avançando no JavaScript
 
 
-- Dia 8: Arrays - Como criar e manipular arrays em JavaScript.
+Ok - Dia 8: Arrays - Como criar e manipular arrays em JavaScript.
 
-- Dia 9: Métodos de Array - Métodos importantes como push, pop, shift, unshift, map, filter e reduce.
+Ok! - Dia 9: Métodos de Array - Métodos importantes como push, pop, shift, unshift, map, filter e reduce.
 
 - Dia 10: Objetos - Introdução aos objetos e suas propriedades.
 
